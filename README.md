@@ -4,7 +4,7 @@ Repository to store sample SQL/Mysql Commands/Queries.
 
 ## 🛠 Skills
 - SQL
-- Mysql
+- MySql
 
 
 ## Links of SQL/MySql courses in this repository
